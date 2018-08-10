@@ -1,23 +1,29 @@
 #!/usr/bin/perl -w
-
+#accessions2tree.pl - takes a list of bacterial genome accessions and generates a phylogenetic tree with Phylip from a pre-computed alignment of 16S sequences
+#output format is a newick tree formatted for use with Figtree
 
 use warnings;
 use strict; 
 use Getopt::Long;
-
+use Cwd qw(cwd);
 
 my(
 	$alignment,
 	$species_summary,
 	$help,
-	$verbose
+    $verbose,
+    $outdir,
+    @accessions
 	);
 
+my $dir=cwd;
+
 &GetOptions(
-	"a|alignment=s"	=>	\$alignment,
-	"s|summary=s"	=>	\$species_summary,
-	"h|help"	=>	\$help,
-	"v|verbose"	=>	\$verbose
+    "a|alignment=s"	=>	\$alignment,
+    "s|summary=s"	=>	\$species_summary,
+    "h|help"	=>	\$help,
+    "v|verbose"	=>	\$verbose
+    "o|output" => \$outdir
 	);
 
 if($help){
@@ -25,58 +31,51 @@ if($help){
 	exit(1);
 }
 
-
-if (-t STDIN){
+sub setup{
+    if (-t STDIN){
 	print "Error: No accessions provided\n";
         &help();
         exit(1);
-}
+    }
 
-my @accessions;
-
-open(NAMES, ">tmpNames.txt");
-while(<STDIN>){
+    system("mkdir -p $dir/$output");
+    while(<STDIN>){
         my $input = $_;
         chomp $input;
         push @accessions, $input;
-        print NAMES $_;
-        }
-close(NAMES);
+    }
 
-
-unless ($accessions[0]){
+    unless ($accessions[0]){
         print "Error: No accessions provided\n";
-        system("rm tmpNames.txt");
-	&help();
+       	&help();
         exit(1);
-        }
+    }
 
-
-
-
-if(not defined($alignment)){
+    if(not defined($alignment)){
 	print "Error: Cannot find alignment file -a";
 	&help();
 	exit(1);
-	}
-elsif(not defined($species_summary)){
+    }
+    elsif(not defined($species_summary)){
 	print "Error: Cannot find annotation file -s";
 	&help();
 	exit(1);
-	}
-else{
-	print "[@accessions]\n" if (defined($verbose)); 
+    }
+}
 
-        
+sub grabSeqs{
+	print "[@accessions]\n" if (defined($verbose)); 
+       
 	#grab seqs of accessions from alignment file
 	my $egrepStr = join('|', @accessions);
-	print "[$egrepStr]\n" if (defined($verbose));
-		
+	print "[$egrepStr]\n" if (defined($verbose));		
 	open(IN, "egrep \'$egrepStr\' $alignment | grep -v \'^\#' | "); 
-	open(OUT, "> tmpOut.txt");
+	open(OUT, ">  $dir/$output/$$_tmpOut.txt");
+	#parse CMalign stockholm
 	print OUT "# STOCKHOLM 1.0\n\n";
 	while(my $in=<IN>){
-    				if($in=~/^([A-Z]+[0-9]+)\/\d+\-\d+\s+(\S+)/){
+	    #Expected file format: ACCESSION/from-to Aligned_sequence
+    				if($in=~/^(\S+)\/\d+\-\d+\s+(\S+)/){
 					my ($acc,$seq) = ($1,$2);
 					print OUT "$acc	$seq\n";
 				}
@@ -86,45 +85,46 @@ else{
 	}
 	print OUT "\/\/\n";
 	close(OUT);
-	
-	## generate tree with accession names
-	
-	system("esl-reformat --mingap phylip  tmpOut.txt > infile && rm -f outfile outtree && echo \"Y\" | dnadist ");
-	system("mv outfile infile && echo \"Y\" | neighbor");
-	
-	#system("mv outtree intree && printf \"Y\nY\n\Y\nY\nY\nY\n\" | drawgram");
-	
+}	
 
-	## replace accessions in newick tree with ACCESSION_LONG_NAME (destroys old tree)
-	## generates new file "formatted_tree" in easyfig format
 
-        system("while read name; do grep \$name $species_summary | cut -f 8 | cut -d \",\" -f 1 | sed 's/complete genome//;s/complete genome.//;s/DNA//;s/genomic//;s/genome assembly//;s/ genome.//;s/main chromosome//;s/draft assembly//;s/ genome//;s/ sequence//;s/ sequence.//;s/main chrosome//;s/draft genome//;s/draft//' | sed 's/[^[:alpha:][:digit:] \t]/ /g' >> tmpSp.txt; done < tmpNames.txt && paste tmpNames.txt tmpSp.txt > tmpLookup.txt");
-	open(OUTFILE, "> formatted_tree");
-	print "Renaming tip labels...\n\n";
-	my $ntax = @accessions;
-        print OUTFILE "#NEXUS\nbegin taxa;\n\tdimensions\n\tntax=$ntax;\n\ttaxlabels\n";
+sub makeTree{
+    ## generate tree from new alignment
+    system("esl-reformat --mingap phylip $dir/$output/$$_tmpOut.txt > infile && echo \"Y\" | dnadist ");
+    system("mv outfile infile && echo \"Y\" | neighbor");
 
-	
-	foreach my $acc (@accessions){
-		my $sum = `grep ^$acc tmpLookup.txt | sed 's/[[:space:]]/\_/g'`;
-		chomp($sum);
-		print OUTFILE "\t$sum\n";
-		system("sed -i 's/$acc/$sum/g' outtree");
-		}
-	
-	print OUTFILE ";\nend;\n\nbegin trees;\n\ttree tree_1 = [&R] ";
-	open(INFILE, "< outtree");
-	
-	while(<INFILE>){
-		print OUTFILE $_;
-		}
-	
-	print OUTFILE "end;";
-	
-	close(OUTFILE);
-	close(INFILE);
-	
-	print "Renamed tree successfully written to formatted_tree\n\n"; 
+    ## replace accessions in newick tree with ACCESSION_LONG_NAME (destroys old tree)
+    ## generates new file "formatted_tree" in easyfig format
+    open(OUTFILE, "> formatted_tree");
+    print "Renaming tip labels...\n\n";
+    my $ntax = @accessions;
+    my %newNames;
+    print OUTFILE "#NEXUS\nbegin taxa;\n\tdimensions\n\tntax=$ntax;\n\ttaxlabels\n";
+    for(my $i=0,$i<$ntax,$i++){
+	my $acc = $accessions[$i];
+	my $spName = `grep $acc $species_summary | rev | cut -f2 | rev`
+	chomp($spName);
+	$spName = $acc,"\t",$spName
+	$newNames{$acc} = $spName 
+    }
+    
+    print OUTFILE ";\nend;\n\nbegin trees;\n\ttree tree_1 = [&R] ";
+    open(INFILE, "< outtree");
+    my $infile = "";
+    while(<INFILE>){
+	my $line = $_;
+	$infile = $infile.$line;
+    }
+    close(INFILE);
+    for my $acc in keys($newNames){
+	my $name = $newNames{$acc};
+	$infile =~ 's/$acc/$name/';
+    }
+    print OUTFILE $infile;
+    print OUTFILE "end;";
+    close(OUTFILE);
+    
+    print "Renamed tree successfully written to formatted_tree\n\n"; 
 	
 	##cleanup of temp files
 	#system("rm infile outfile outtree tmpLookup.txt tmpNames.txt tmpOut.txt tmpSp.txt");
