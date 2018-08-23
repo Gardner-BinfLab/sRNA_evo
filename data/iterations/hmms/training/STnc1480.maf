@@ -1,0 +1,612 @@
+>STnc1480 Salmonella enterica subsp. enterica serovar 4,[5],12:i:- str. 08-1736 chromosome, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella bongori serovar 48:z41:-- str. RKS3044, complete genome.
+aaaggagtgcagcgtgatagggataaa---aataaacttccatca-----ggaggctcta
+tgaagcgattgaaagagatggctgtgattttattttttg-cattactgacagcaggcttc
+acgtcgtcggcgatggcatcgtctggtaacgacgat---ccgtggcattttgatctggac
+ttgtcaggtggtcattatttttgcagagtaacaccggct----------ggtactctgca
+attacctcctccctttggtgaatattgctggcattaatagtcgtatgatgttaa---gta
+agacaatggtgagcaaatctgacgctacgtc------a-tactacccgtgactt------
+---------atttaaat-----------agtgttcggat--atatcgctt-----ttgtc
+ggttcgcaaa-------gatcaaccctaaatccgcccattaataataacgggcggattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. CVM 22462, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tataggcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Bredeney str. CFSAN001080, complete genome.
+aaaggagtgtgacgtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatagcagcaattttgctttttg-cattgctggccgcggggttc
+acgtcgtcggctatggcatcgtcgggcagtggtggtggcccgtgggattttgatttctat
+tttcctggtcactactttttttgcaaactacaaccccct----------gattctctgca
+attaccaccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtaa------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12, complete genome.
+aaaggagtgtgacgtggtaaggataat---aatgtacttccgttc-----ggaggtacta
+tgaaacgatttaaagaaatagcagcaattttgctttttg-cattgctggccgtggggttc
+acgtcgtcggctatggcatcgtcgggcagtggtggtggcccgtgggattttgatatctat
+tttcctggtcactactttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtaa------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtagtggc
+aatatgtataatcgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaatcccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtaatggc
+aatatgtataatcgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica Serovar Cubana str. CFSAN002050, complete genome.
+-aaggagcgtcgagcggtaaggataatctatttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggcgggtttt
+tccgcatcggttatggca--gacgaccag--gcgcc---tgaaagagttccagcagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tatacgcgaataatgatatcagtcgcgaaggg
+tgaatgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. USDA-ARS-USMARC-1899, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.
+aaaggaatgtgaagtggtaacgttaat---aatgtatatccgtta-----ggggacctta
+cgaaaaggtttaaacaaatggccgaaattttgcttttta-cattactggccgcggctttt
+acgtcgcctgctatgacatcgtcagatagtagcgcc---ccatgggtttttgatatcgat
+ttttctggtcatt-gcttttttgcaaaatacaactctct----------gattctacggg
+attatctccaccctttggtgagtttttctggcattaataaatctatatgctt-----cca
+g-----ttgtaag-----taagcgc-atgta------a-gctaa------atcc------
+---------agtcagga-----------gatatataagt--ttacggctattgtaggggc
+agtatgtataaccgccttggtagttataaatcagcccgttatatattacaggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Paratyphi A strain CMCC 50973, complete genome.
+-aaggagcgtcgagcggtaaggataatctatttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cactattggctgcgggtttt
+tcctcatcggttatggca--gacgaccag--gcgcc---tgaaagagttccagtagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggtcag-----aacagcttt--
+---------attcatgc-----------tatacgcgaataatgatatcagttgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella bongori NCTC 12419, culture collection SGSC SARC11, complete genome
+-aaggagtgcagcgtgatagggataaa---aataaacttccatca-----ggaggctcta
+tgaaacgattgaaagaaatggctgtgattttattttttg-cattactgacagcaggcttc
+acgtcgtcggcgatggcatcgtctggtaacgatgat---ccgtgggattttgatctggac
+ttgtcaggtggtcattatttttgcagagtaacaccggct----------ggtactctgca
+gttacctcctccctttggtgaatattgctggcattaatagtcgtatgatattaa--gtaa
+g-----acaaagg-----tgagcaa-atctg------a-cgcta-----agtcatactac
+ccgtgacttatttaaat-----------agtgttcagat--atatcgctt-----ttgtc
+ggttcgcaaag-------atcaaccctaaatccgcccattaataataacgggcggattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhi str. Ty21a, complete genome.
+aaaggagtgtgacgtggtaaggataat---aatgtacttccgttc-----ggaggtacta
+tgaaacgatttaaagaaatagcagcaattttgctttttg-cattgctggccgtggggttc
+acgtcgtcggctatggcatcgtcgggcagtggtggtggcccgtgggattttgatatctat
+tttcctggtcactactttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtaa------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtagtggc
+aatatgtataatcgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. CVM N18486, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tataggcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.
+aaaggagtgtgacgtggtaaggataat---aatgtacttccgttc-----ggaggtacta
+tgaaacgatttaaagaaatagcagcaattttgctttttg-cattgctggccgtggggttc
+acgtcgtcggctatggcatcgtcgggcagtggtggtggcccgtgggattttgatatctat
+tttcctggtcactactttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtaa------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtagtggc
+aatatgtataatcgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Anatum str. ATCC BAA-1592, complete genome.
+--gggagcgtggcacgataggggtaat---aatatgttttcatcg-----ggaggcttta
+tgaaacgattgaaagagatggctgtgattttatttttgg-cattactggcggcaggtttt
+acgtcgtcggcgatggcatcgtctggcaacgataat---ccgtgggattttgatctggat
+ttttcaggtggttattattattgcaaattaatacaggct----------ggtcttctgga
+attacctcctccctttggtgagtattgctggcactaatagtaatgtgaatttaa--gtaa
+g-----acaatgg-----tgagcaa-atctg------acgctaa------gtcgtact--
+---------acccatgacttatttaaatagtgttcaggc--atatcgctattgt-----c
+ggtttgcaaag-------atcaaccataaatccgcccattaataataacgggcggattt
+>STnc1480 Salmonella bongori N268-08, complete genome.
+-aaggagtgcagcgtgatagggataaa---aataaacttccatca-----ggaggctcta
+tgaaacgattgaaagaaatggctgtgattttattttttg-cattactgacagcaggcttc
+acgtcgtcggcgatggcatcgtctggtaacgatgat---ccgtgggattttgatctggac
+ttgtcaggtggtcattatttttgcagagtaacaccggct----------ggtactctgca
+gttacctcctctctttggtgaatattgctggcattaatagtcgtatgatattaa--gtaa
+g-----acaaagg-----tgagcaa-atcta------a-cgcta-----agtcatactac
+ccgtggcttatttaaat-----------agtgttcagat--atatcgctt-----ttgtc
+ggttcgcaaag-------atcaaccctaaatccgcccattaataataacgggcggattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. U288, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. T000240 DNA, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaatcccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtaatggc
+aatatgtataatcgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002069, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Anatum str. CDC 06-0532, complete genome.
+--gggagcgtggcacgataggggtaat---aatatgttttcatcg-----ggaggcttta
+tgaaacgattgaaagagatggctgtgattttatttttgg-cattactggcggcaggtttt
+acgtcgtcggcgatggcatcgtctggcaacgataat---ccgtgggattttgatctggat
+ttttcaggtggttattattattgcaaattaatacaggct----------ggtcttctgga
+attacctcctccctttggtgagtattgctggcactaatagtaatgtgaatttaa--gtaa
+g-----acaatgg-----tgagcaa-atctg------acgctaa------gtcgtact--
+---------acccatgacttatttaaatagtgttcaggc--atatcgctattgt-----c
+ggtttgcaaag-------atcaaccataaatccgcccattaataataacgggcggattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Agona str. 460004 2-1, complete genome.
+-aaggagcgtcgagcggtaaggataatctatttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggcgggtttt
+tccgcatcagttatggca--gacgaccag--gcgcc---tgaaagagttccagcagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggtcag-----aacagcttt--
+---------attcatgc-----------tatacgcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium var. 5- str. CFSAN001921, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium strain 138736, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. USMARC-S3124.1, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tataggcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.
+-aaggagcgtcgagcggtaaggataatctatttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cactattggctgcgggtttt
+tcctcatcggttatggca--gacgaccag--gcgcc---tgaaagagttccagtagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggtcag-----aacagcttt--
+---------attcatgc-----------tatacgcgaataatgatatcagttgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Heidelberg str. 41578, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. CDC 2010K-2159, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtaa------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtaatggc
+aatatgtataatcgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Agona str. 24249, complete genome.
+-aaggagcgtcgagcggtaaggataatctatttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggcgggtttt
+tccgcatcagttatggca--gacgaccag--gcgcc---tgaaagagttccagcagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggtcag-----aacagcttt--
+---------attcatgc-----------tatacgcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. CVM 21554, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tataggcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium strain VNP20009, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete chromosome
+aaaggagtgtgacgtggtaaggataat---aatgtacttccgttc-----ggaggtacta
+tgaaacgatttaaagaaatagcagcaattttgctttttg-cattgctggccgtggggttc
+acgtcgtcggctatggcatcgtcgggcagtggtggtggcccgtgggattttgatatctat
+tttcctggtcactactttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtaa------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtagtggc
+aatatgtataatcgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Choleraesuis strain C500, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaatcccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtaatggc
+aatatgtataatcgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Montevideo str. 507440-20, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggcgggtttt
+tccgcatcggttatggca--gacgaccag--gcgcc---tgaaagagttccagcagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggtcag-----aacagcttc--
+---------attcacgc-----------tatacgcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1927, complete genome.
+-aaggagcgtcgagcggtaaggataatctatttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggcgggtttt
+tccgcatcggttatggca--gacgaccag--gcgcc---tgaaagagttccagcagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tatacgcgaataatgatatcagtcgcgaaggg
+tgaatgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Heidelberg str. B182, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. 798, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttgtcattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat-----t
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. CVM 21550, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tataggcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. CVM 22513, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tataggcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601 complete genome, strain AKU_12601
+-aaggagcgtcgagcggtaaggataatctatttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cactattggctgcgggtttt
+tcctcatcggttatggca--gacgaccag--gcgcc---tgaaagagttccagtagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggtcag-----aacagcttt--
+---------attcatgc-----------tatacgcgaataatgatatcagttgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002064, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. CVM N1543, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tataggcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1175, complete genome.
+--gggagcgtggcacgataggggtaat---aatatgttttcatcg-----ggaggcttta
+tgaaacgattgaaagagatggctgtgattttatttttgg-cattactggcggcaggtttt
+acgtcgtcggcgatggcatcgtctggcaacgataat---ccgtgggattttgatctggat
+ttttcaggtggttattattattgcaaattaatacaggct----------ggtcttctgga
+attacctcctccctttggtgagtattgctggcactaatagtaatgtgaatttaa--gtaa
+g-----acaatgg-----tgagcaa-atctg------acgctaa------gtcgtact--
+---------acccatgacttatttaaatagtgttcaggc--atatcgctattgt-----c
+ggtttgcaaag-------atcaaccataaatccgcccattaataataacgggcggattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Abaetetuba str. ATCC 35640, complete genome.
+aaaggagtgtgacgtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatagcagcaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagc---ccgtgggattttgat------
+ttttcgggtccatggcttttttgtaagctgcaacaacct----------gattctctgca
+attaccgccaccttttggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. CVM 21538, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tataggcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium SL1344 complete genome
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. L-3553 DNA, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtaatggc
+aatatgtataatcgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tataggcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. D23580 complete genome
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Newport str. CVM 22425, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tataggcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. CDC 2011K-0870, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium str. DT2, complete genome
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Montevideo str. USDA-ARS-USMARC-1921, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggcgggtttt
+tccgcatcggttatggca--gacgaccag--gcgcc---tgaaagagttccagcagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggtcag-----aacagcttc--
+---------attcacgc-----------tatacgcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Typhimurium DT104 main chromosome, complete genome
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatagtatt-----tca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattatagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Paratyphi A strain CMCC 50503, complete genome.
+-aaggagcgtcgagcggtaaggataatctatttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cactattggctgcgggtttt
+tcctcatcggttatggca--gacgaccag--gcgcc---tgaaagagttccagtagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggtcag-----aacagcttt--
+---------attcatgc-----------tatacgcgaataatgatatcagttgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.
+aaaggagtgtgacgtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatagcagcaattttgctttttg-cattgctggccgcggggttc
+acgtcgtcggctatggcatcgtcgggcagtggtggtggcccgtgggattttgatttctat
+tttcctggtcactactttttttgcaaactacaaccccct----------gattctctgca
+attaccaccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtaa------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtagtggt
+agtatgtataattgccttgttagtgataaatcagcccgtgactcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Montevideo str. USDA-ARS-USMARC-1903, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggcgggtttt
+tccgcatcggttatggca--gacgaccag--gcgcc---tgaaagagttccagcagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggtcag-----aacagcttc--
+---------attcacgc-----------tatacgcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Abony str. 0014, complete genome.
+aaaggagtgtgaagtggtaaggataat---aatgtacttccgttc-----ggaggcacta
+tgaaacgatttaaagaaatggcaacaatttttctttttg-cattgctggctgcggggttc
+acgtcgtctgctatggcagcgtcgggtagtgatagt---ccgtgggattttgat------
+ttttcgggtccatggcttttttgcaaactacaaccccct----------gattctctgca
+attaccgccacctcctggtgagtattgctggcattaataaatccatactatt-----cca
+g-----tgataag-----tcggcgc-atgta------a-ggtta------atcc------
+---------agtcagga-----------gatatacaggt--ttacggctattgtaatggc
+aatatgtataatcgccttgttagtgataaatcagcccgtgacgcattacgggctgattt
+>STnc1480 Salmonella enterica subsp. arizonae serovar 62:z36:- str. RKS2983, complete genome.
+aaaggaatgtgaagtggtaaggttaat---aatgtatatccgtta-----ggggacctta
+cgaaaaggtttaaacaaatggccgaaattttgcttttta-cattactggccgcggctttt
+acgtcgcctgctatgacatcgtcagatagtagcgcc---ccatggttttttgatatcgat
+ttttctggtcattggcttttttgtaaaatataactctct----------gattctatggg
+attatctccaccctttggtgagtttttctggcattaataaatctataagctt-----cca
+g-----ttgtaag-----taagcgc-atgta------a-gctaa------atcc------
+---------agtcagga-----------gatatataagt--ttacggctattgtaggggc
+agtatgtataaccgccttggtagttataaatcagcccgttatatattacaggctgattt
+>STnc1480 Salmonella enterica subsp. enterica serovar Tennessee str. TXSC_TXSC08-19, complete genome.
+-aggaggtg-cgagagggaaggat-atttatttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggcgggtttc
+tccgcatcggctatggca--gacggccaa--aagcc---tggaggagttccagcagctaa
+agttaagcccgttggtgaacatgcacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcaggagatggccgtattgttcttaacattaacgcaaaggcat
+a-----acgctaa-----cgaatca-atttgtaacataggcca------aacagcttc--
+---------attcacgc-----------tatacgcgaataatgatgtcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000189, complete genome.
+-aaggagcgtcgagcggtaaggataatttagttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggtgggtttt
+tccgcatcggctatggca--gacgaccag--gcgcc---tgaaagagttccagcagctaa
+agttaagcccgttggtgaacatgtacactggtgtactctctttgagccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgct-a-----cgaatca-atttgtaacataggccag-----aacagcttt--
+---------attcatgc-----------tatacgcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
+>STnc1480 Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.
+-aaggagcgtcgagcggtaaggataatctatttattctcttattcctgtagggggaatga
+tgaaaaagttgaaagaaatggctgctatctcgcttttta-cattattggcggcgggtttt
+tccgcatcagttatggca--gacgaccag--gcgcc---tgaaagagttccagcagctga
+agttaagcccgttggtgaacatgtacactggtgtactctctttgatccagatggtatgga
+gttgccgccgttgccaggcatggaatggccgtggtgtttgtaatattaacgcaaaggcat
+a-----gcgctaa-----cgaatca-atttgtaacataggtcag-----aacagcttt--
+---------attcatgc-----------tatacgcgaataatgatatcagtcgcgaaggg
+tgaacgttaa--------gttgctaataaacctgcccgt-aataacaacgggcaggttt
