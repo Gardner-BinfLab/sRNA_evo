@@ -1,0 +1,128 @@
+>AE006468 Salmonella enterica subsp. enterica serovar Typhimurium str. LT2, complete genome.
+>AE014613 Salmonella enterica subsp. enterica serovar Typhi Ty2, complete genome.
+>AE017220 Salmonella enterica subsp. enterica serovar Choleraesuis str. SC-B67, complete genome.
+>AL513382 Salmonella enterica subsp. enterica serovar Typhi str. CT18, complete chromosome
+>AM933172 Salmonella enterica subsp. enterica serovar Enteritidis str. P125109 complete genome
+>AM933173 Salmonella enterica subsp. enterica serovar Gallinarum str. 287/91 complete genome
+>AP011957 Salmonella enterica subsp. enterica serovar Typhimurium str. T000240 DNA, complete genome.
+>AP014565 Salmonella enterica subsp. enterica serovar Typhimurium str. L-3553 DNA, complete genome.
+>CP000026 Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150, complete genome.
+>CP000857 Salmonella enterica subsp. enterica serovar Paratyphi C strain RKS4594, complete genome.
+>CP000880 Salmonella enterica subsp. arizonae serovar 62:z4,z23:--, complete genome.
+>CP000886 Salmonella enterica subsp. enterica serovar Paratyphi B str. SPB7, complete genome.
+>CP001113 Salmonella enterica subsp. enterica serovar Newport str. SL254, complete genome.
+>CP001120 Salmonella enterica subsp. enterica serovar Heidelberg str. SL476, complete genome.
+>CP001127 Salmonella enterica subsp. enterica serovar Schwarzengrund str. CVM19633, complete genome.
+>CP001138 Salmonella enterica subsp. enterica serovar Agona str. SL483, complete genome.
+>CP001144 Salmonella enterica subsp. enterica serovar Dublin str. CT_02021853, complete genome.
+>CP001363 Salmonella enterica subsp. enterica serovar Typhimurium str. 14028S, complete genome.
+>CP002099 Salmonella enterica subsp. enterica serovar Typhi str. Ty21a, complete genome.
+>CP002487 Salmonella enterica subsp. enterica serovar Typhimurium str. ST4/74, complete genome.
+>CP002614 Salmonella enterica subsp. enterica serovar Typhimurium str. UK-1, complete genome.
+>CP003047 Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. RKS5078, complete genome.
+>CP003278 Salmonella enterica subsp. enterica serovar Typhi str. P-stx-12, complete genome.
+>CP003386 Salmonella enterica subsp. enterica serovar Typhimurium str. 798, complete genome.
+>CP003416 Salmonella enterica subsp. enterica serovar Heidelberg str. B182, complete genome.
+>CP003786 Salmonella enterica subsp. enterica serovar Gallinarum/pullorum str. CDC1983-67, complete genome.
+>CP003836 Salmonella enterica subsp. enterica serovar Typhimurium str. U288, complete genome.
+>CP004027 Salmonella enterica subsp. enterica serovar Javiana str. CFSAN001992, complete genome.
+>CP004086 Salmonella enterica subsp. enterica serovar Heidelberg str. 41578, complete genome.
+>CP005390 Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002069, complete genome.
+>CP005995 Salmonella enterica subsp. enterica serovar Heidelberg str. CFSAN002064, complete genome.
+>CP006048 Salmonella enterica subsp. enterica serovar Typhimurium var. 5- str. CFSAN001921, complete genome.
+>CP006053 Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000189, complete genome.
+>CP006055 Salmonella enterica subsp. enterica Serovar Cubana str. CFSAN002050, complete genome.
+>CP006575 Salmonella enterica subsp. enterica serovar Pullorum str. S06004, complete genome.
+>CP006602 Salmonella enterica subsp. enterica serovar 4,[5],12:i:- str. 08-1736 chromosome, complete genome.
+>CP006608 Salmonella bongori N268-08, complete genome.
+>CP006631 Salmonella enterica subsp. enterica serovar Newport str. USMARC-S3124.1, complete genome.
+>CP006692 Salmonella bongori serovar 48:z41:-- str. RKS3044, complete genome.
+>CP006693 Salmonella enterica subsp. arizonae serovar 62:z36:- str. RKS2983, complete genome.
+>CP006876 Salmonella enterica subsp. enterica serovar Agona str. 24249, complete genome.
+>CP007175 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110354, complete genome.
+>CP007211 Salmonella enterica subsp. enterica serovar Anatum str. CDC 06-0532, complete genome.
+>CP007216 Salmonella enterica subsp. enterica serovar Newport str. USDA-ARS-USMARC-1927, complete genome.
+>CP007222 Salmonella enterica subsp. enterica serovar Montevideo str. USDA-ARS-USMARC-1903, complete genome.
+>CP007235 Salmonella enterica subsp. enterica serovar Typhimurium str. USDA-ARS-USMARC-1899, complete genome.
+>CP007245 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20120008, complete genome.
+>CP007246 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20100101, complete genome.
+>CP007247 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110221, complete genome.
+>CP007248 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20090698, complete genome.
+>CP007249 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20090641, complete genome.
+>CP007250 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110355, complete genome.
+>CP007251 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110353, complete genome.
+>CP007252 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20111175, complete genome.
+>CP007253 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20111174, complete genome.
+>CP007254 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20111095, complete genome.
+>CP007258 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110360, complete genome.
+>CP007259 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110359, complete genome.
+>CP007260 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110358, complete genome.
+>CP007261 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110357, complete genome.
+>CP007262 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110356, complete genome.
+>CP007263 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110361, complete genome.
+>CP007266 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20110223 genome.
+>CP007267 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20120005, complete genome.
+>CP007269 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20121175, complete genome.
+>CP007270 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20121176 genome.
+>CP007271 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20121178, complete genome.
+>CP007272 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20121179 genome.
+>CP007273 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20121180 genome.
+>CP007274 Salmonella enterica subsp. enterica serovar Enteritidis str. SA20093266 genome.
+>CP007320 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20090135 genome.
+>CP007321 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20090193 genome.
+>CP007322 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20090332 genome.
+>CP007358 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20100130 genome.
+>CP007359 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20100134 genome.
+>CP007420 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20100103 genome.
+>CP007421 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20090884 genome.
+>CP007422 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20090531 genome.
+>CP007463 Salmonella enterica subsp. enterica serovar Enteritidis str. EC20120929 genome.
+>CP007466 Salmonella enterica subsp. enterica serovar Enteritidis str. SA20084644 genome.
+>CP007467 Salmonella enterica subsp. enterica serovar Enteritidis str. SA20084824 genome.
+>CP007468 Salmonella enterica subsp. enterica serovar Enteritidis str. SA20094177 genome.
+>CP007469 Salmonella enterica subsp. enterica serovar Enteritidis str. SA20094301 genome.
+>CP007483 Salmonella enterica subsp. enterica serovar Anatum str. USDA-ARS-USMARC-1175, complete genome.
+>CP007505 Salmonella enterica subsp. enterica serovar Tennessee str. TXSC_TXSC08-19, complete genome.
+>CP007507 Salmonella enterica subsp. enterica serovar Enteritidis strain Durban, complete genome.
+>CP007523 Salmonella enterica subsp. enterica serovar Typhimurium str. CDC 2011K-0870, complete genome.
+>CP007528 Salmonella enterica subsp. enterica serovar Enteritidis str. CDC_2010K_0968, complete genome.
+>CP007530 Salmonella enterica subsp. enterica serovar Montevideo str. 507440-20, complete genome.
+>CP007531 Salmonella enterica subsp. enterica serovar Anatum str. ATCC BAA-1592, complete genome.
+>CP007532 Salmonella enterica subsp. enterica serovar Abaetetuba str. ATCC 35640, complete genome.
+>CP007533 Salmonella enterica subsp. enterica serovar Bredeney str. CFSAN001080, complete genome.
+>CP007534 Salmonella enterica subsp. enterica serovar Abony str. 0014, complete genome.
+>CP007540 Salmonella enterica subsp. enterica serovar Montevideo str. USDA-ARS-USMARC-1921, complete genome.
+>CP007559 Salmonella enterica subsp. enterica serovar Newport str. CDC 2010K-2159, complete genome.
+>CP007581 Salmonella enterica subsp. enterica serovar Typhimurium strain 138736, complete genome.
+>CP007598 Salmonella enterica subsp. enterica serovar Enteritidis str. 77-1427, complete genome.
+>CP007639 Salmonella enterica subsp. enterica serovar Choleraesuis strain C500, complete genome.
+>CP007804 Salmonella enterica subsp. enterica serovar Typhimurium strain VNP20009, complete genome.
+>CP008928 Salmonella enterica subsp. enterica serovar Enteritidis strain SEJ, complete genome.
+>CP009049 Salmonella enterica subsp. enterica serovar Paratyphi A strain CMCC 50973, complete genome.
+>CP009083 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE1-1019-1, complete genome.
+>CP009084 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE2-98984-6, complete genome.
+>CP009085 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE3-98983-4, complete genome.
+>CP009086 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE4-0317-8, complete genome.
+>CP009087 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE5-1104-2, complete genome.
+>CP009088 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE6-00219-16, complete genome.
+>CP009089 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE7-100819, complete genome.
+>CP009090 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE8-1021710, complete genome.
+>CP009091 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE9-10012, complete genome.
+>CP009092 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE10-10052, complete genome.
+>CP009093 Salmonella enterica subsp. enterica serovar Enteritidis strain OLF-SE11-10058, complete genome.
+>CP009559 Salmonella enterica subsp. enterica serovar Paratyphi A strain CMCC 50503, complete genome.
+>CP009561 Salmonella enterica subsp. enterica serovar Newport str. CVM N18486, complete genome.
+>CP009565 Salmonella enterica subsp. enterica serovar Newport str. CVM 21554, complete genome.
+>CP010279 Salmonella enterica subsp. enterica serovar Newport str. CVM 22425, complete genome.
+>CP010280 Salmonella enterica subsp. enterica serovar Newport str. CVM 22462, complete genome.
+>CP010281 Salmonella enterica subsp. enterica serovar Newport str. CVM 22513, complete genome.
+>CP010282 Salmonella enterica subsp. enterica serovar Newport str. CVM 21538, complete genome.
+>CP010283 Salmonella enterica subsp. enterica serovar Newport str. CVM 21550, complete genome.
+>CP010284 Salmonella enterica subsp. enterica serovar Newport str. CVM N1543, complete genome.
+>CP011259 Salmonella enterica subsp. enterica serovar Agona str. 460004 2-1, complete genome.
+>FM200053 Salmonella enterica subsp. enterica serovar Paratyphi A str. AKU_12601 complete genome, strain AKU_12601
+>FN424405 Salmonella enterica subsp. enterica serovar Typhimurium str. D23580 complete genome
+>FQ312003 Salmonella enterica subsp. enterica serovar Typhimurium SL1344 complete genome
+>FR877557 Salmonella bongori NCTC 12419, culture collection SGSC SARC11, complete genome
+>HF937208 Salmonella enterica subsp. enterica serovar Typhimurium DT104 main chromosome, complete genome
+>HG326213 Salmonella enterica subsp. enterica serovar Typhimurium str. DT2, complete genome
