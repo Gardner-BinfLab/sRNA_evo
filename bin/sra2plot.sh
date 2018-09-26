@@ -104,8 +104,8 @@ if $PLOT;then
     samtools view -b -f 80 -@ ${THREADS} ${SRA}.sorted.bam > ${SRA}.fwd2.bam
     samtools index ${SRA}.fwd2.bam
     #combine alignments that originate on the forward strand
-    samtools merge -f $DATA.fwd.bam $DATA.fwd1.bam $DATA.fwd2.bam
-    samtools index $DATA.fwd.bam
+    samtools merge -f ${SRA}.fwd.bam ${SRA}.fwd1.bam ${SRA}.fwd2.bam
+    samtools index ${SRA}.fwd.bam
 
     # Reverse strand
     #alignments of the second in pair if they map to the reverse strand
